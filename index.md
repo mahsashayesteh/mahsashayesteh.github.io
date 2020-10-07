@@ -1,6 +1,4 @@
-
-
-[Image]([url=https://8pic.ir/uploads/20200615-182637_4ce9a.jpg][img]https://8pic.ir/uploads/thumbs/20200615-182637_4ce9a.jpg[/img][/url])
+[Image](<a href="https://8pic.ir/" target="_blank" title="آپلود عکس"><img src="https://8pic.ir/uploads/20200615-182637_4ce9a.jpg" border="0" alt="آپلود عکس"></a>)
 
 # مشخصات فردی 
 personal profile 
