@@ -9,22 +9,27 @@ personal profile
 
   full name :   mahsa zohdi shayesteh
 
+
 - سن    : ۲۲ سال 
 
   age :  22 years
+
 
 - محل سکونت : تهران 
 
   Address : iran ,tehran 
 
 
+
 - تلفن همراه : 09916304606 
 
   Phone number : 09916304606
 
+
 - Mahsa.zohdi96@gmail.com: ایمیل
 
   Email : mahsa.zohdi96@gmail.com
+
 
 # سوابق تحصیلی
   Education
@@ -33,16 +38,18 @@ personal profile
 
   Grade : masters
 
+
 - رشته تحصیلی : مهندسی کامپیوتر 
 
   Field of Study : Computer Engineering
 
+
 - نام دانشگاه : پیام نور 
 
-University name : payamnoor
+  University name : payamnoor
 
 # سوابق کاری 
- Resume 
+  Resume 
 
  - ندارم
   _ 
