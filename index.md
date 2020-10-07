@@ -1,6 +1,6 @@
-# Welcome 
 
-[Image](https://8pic.ir/uploads/20200615-182637.jpg)
+
+[Image]([url=https://8pic.ir/uploads/20200615-182637_4ce9a.jpg][img]https://8pic.ir/uploads/thumbs/20200615-182637_4ce9a.jpg[/img][/url])
 
 # مشخصات فردی 
 personal profile 
