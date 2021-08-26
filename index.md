@@ -1,5 +1,4 @@
-<a href="https://8pic.ir/" target="_blank" title="آپلود عکس"><img src="https://8pic.ir/uploads/20201007-224813.jpg" border="0" alt="آپلود عکس"></a>
-
+<a href="https://uupload.ir/" target="_blank"><img src="https://s4.uupload.ir/files/dsc_0838_bbi.jpg" border="0" alt="آپلود عکس" /></a>
 # مشخصات فردی 
 personal profile 
 
